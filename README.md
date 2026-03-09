@@ -25,7 +25,7 @@ Configure Credentials: Update the XNAT_USER and XNAT_PASS in automatization.py a
  
 - Execution: Run the master script to trigger the full pipeline:
  
-## Bash
+## Execution
 ```
 python automatization.py
 ```
